@@ -78,6 +78,6 @@ _start:
 ```
 
 
-Also you can use my [runner.sh](https://gist.github.com/ebubekirtrkr/e8cce31ab32e6ec291dc2d9b5412abb6) script to get raw-bytes from shellcode and analys it.
+Also you can use my [runner.sh](https://gist.github.com/ebubekirtrkr/e8cce31ab32e6ec291dc2d9b5412abb6) script to get raw-bytes from shellcode and analyse it.
 
 I created `syscalls.csv` with `getSyscalsFromWebsite.py` which gets syscall numbers, syscall names and argument length from the awesome site [Searchable Linux Syscall Table,  filippo.io](https://filippo.io/linux-syscall-table/)
