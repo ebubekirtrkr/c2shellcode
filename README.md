@@ -2,7 +2,7 @@
 
 Converts `c` programs that only use syscalls to 64 bit `assembly` file.
 
-It is works with `64 bit syscalls`
+It works with `64 bit syscalls`
 
 ## Usage
 
