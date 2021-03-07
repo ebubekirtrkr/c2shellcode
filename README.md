@@ -35,8 +35,8 @@ Using `-d` deletes `input_temp.s` which created with `gcc`.
 
 int main(int argc, char **argv)
 {
-    char* argv[3] = {"/bin/cat", "/flag", NULL};
-    execve("/bin/cat", argv, NULL);
+    char* args[3] = {"/bin/cat", "/flag", NULL};
+    execve("/bin/cat", args, NULL);
 }
 ```
 
